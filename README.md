@@ -1,5 +1,5 @@
 # LoRaSX128X
-SX128X Driver that works on ESP IDF.
+SX128X (PA) Driver that works on ESP IDF.
 
 I had a lots of difficulties using the drivers offered online for chip SX128X for ESP IDF, so as part of a larger project, I had to reprogram my own.
 
